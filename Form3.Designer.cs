@@ -38,9 +38,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(14, 27);
             label1.Name = "label1";
-            label1.Size = new Size(77, 20);
+            label1.Size = new Size(54, 20);
             label1.TabIndex = 5;
-            label1.Text = "プリセット名";
+            label1.Text = "編成名";
             // 
             // button1
             // 

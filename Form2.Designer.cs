@@ -58,18 +58,18 @@
             label1.AutoSize = true;
             label1.Location = new Point(15, 29);
             label1.Name = "label1";
-            label1.Size = new Size(108, 20);
+            label1.Size = new Size(84, 20);
             label1.TabIndex = 2;
-            label1.Text = "登録マイセット名";
+            label1.Text = "登録編成名";
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Location = new Point(15, 64);
             label2.Name = "label2";
-            label2.Size = new Size(108, 20);
+            label2.Size = new Size(84, 20);
             label2.TabIndex = 3;
-            label2.Text = "削除マイセット名";
+            label2.Text = "削除編成名";
             // 
             // comboBox1
             // 
