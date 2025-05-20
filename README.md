@@ -92,7 +92,7 @@
     git clone https://github.com/ArcaeR/Support-Card-Manager.git
     ```
 2.  Visual Studio で `Support Card Manager.sln` を開きます。
-3.  ビルドを実行します。
+3.  Debugビルドを実行します。
 
 **注意: Debugビルドが失敗する場合**
 
