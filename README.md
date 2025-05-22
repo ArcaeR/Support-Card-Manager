@@ -1,5 +1,7 @@
 ﻿# Support Card Manager
 
+![メイン画面のスクリーンショット](screenshots/screenshot-main.png)
+
 ## 概要
 
 「Support Card Manager」は、育成ゲームで使用するサポートカードの編成の管理やイベントの進行状況を記録するためのアプリケーションです。編成を登録、呼び出し、削除する機能やイベント進行状況を管理する機能を実装しています。
