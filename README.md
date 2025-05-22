@@ -1,6 +1,6 @@
 ﻿# Support Card Manager
 
-![メイン画面のスクリーンショット](screenshots\screenshot_main.png)
+![メイン画面のスクリーンショット](screenshots/screenshot_main.png)
 
 ## 概要
 
