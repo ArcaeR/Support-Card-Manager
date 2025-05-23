@@ -1,6 +1,3 @@
-using System.CodeDom;
-using Newtonsoft.Json.Linq;
-
 namespace Support_Card_Manager
 {
     public partial class Form1 : Form
